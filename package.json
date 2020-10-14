@@ -1,0 +1,22 @@
+{
+  "name": "jest-test-examples",
+  "version": "1.0.0",
+  "description": "Jest Testing Framework Examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbbayhan/jest-test-examples.git"
+  },
+  "author": "Beste Burcu Bayhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbbayhan/jest-test-examples/issues"
+  },
+  "homepage": "https://github.com/bbbayhan/jest-test-examples#readme",
+  "devDependencies": {
+    "jest": "^26.5.3"
+  }
+}
