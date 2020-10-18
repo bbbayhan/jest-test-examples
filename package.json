@@ -4,7 +4,8 @@
   "description": "Jest Testing Framework Examples",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node"
   },
   "repository": {
     "type": "git",
