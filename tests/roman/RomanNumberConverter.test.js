@@ -1,4 +1,4 @@
-const romanNumberConverter = require('./index');
+const romanNumberConverter = require('jest-test-examples/code/roman/RomanNumberConverter.js');
 
 describe('Roman Number Converter', () => {
     it('should convert single digit roman numbers', () => {
